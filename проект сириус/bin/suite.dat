@@ -1,0 +1,122 @@
+{
+     "names": [
+          {
+               "language": "en",
+               "value": "LabVIEW (32-bit) English"
+          },
+          {
+               "language": "fr",
+               "value": "LabVIEW (32 bits) - Anglais"
+          },
+          {
+               "language": "de",
+               "value": "LabVIEW (32 Bit) - Englisch"
+          },
+          {
+               "language": "ja",
+               "value": "LabVIEW (32ビット) 英語版"
+          },
+          {
+               "language": "ko",
+               "value": "LabVIEW (32비트) 영어 버전"
+          },
+          {
+               "language": "zh-CN",
+               "value": "LabVIEW（32位）英语版"
+          }
+     ],
+     "shortDescriptions": [
+          {
+               "language": "en",
+               "value": null
+          },
+          {
+               "language": "fr",
+               "value": null
+          },
+          {
+               "language": "de",
+               "value": null
+          },
+          {
+               "language": "ja",
+               "value": null
+          },
+          {
+               "language": "ko",
+               "value": null
+          },
+          {
+               "language": "zh-CN",
+               "value": null
+          }
+     ],
+     "suiteContents": [
+          {
+               "repositories": [
+                    {
+                         "repositoryName": "ni-labview-2020-x86",
+                         "repositoryPath": "../feeds/ni-labview-2020-x86"
+                    }
+               ],
+               "names": [
+                    {
+                         "language": "en",
+                         "value": "LabVIEW (32-bit) English"
+                    },
+                    {
+                         "language": "fr",
+                         "value": "LabVIEW (32 bits) - Anglais"
+                    },
+                    {
+                         "language": "de",
+                         "value": "LabVIEW (32 Bit) - Englisch"
+                    },
+                    {
+                         "language": "ja",
+                         "value": "LabVIEW (32ビット) 英語版"
+                    },
+                    {
+                         "language": "ko",
+                         "value": "LabVIEW (32비트) 영어 버전"
+                    },
+                    {
+                         "language": "zh-CN",
+                         "value": "LabVIEW（32位）英语版"
+                    }
+               ],
+               "shortDescriptions": [
+                    {
+                         "language": "en",
+                         "value": "LabVIEW is systems engineering software for applications that require test, measurement, and control with rapid access to hardware and data insights."
+                    },
+                    {
+                         "language": "fr",
+                         "value": "LabVIEW est un logiciel de développement de systèmes pour les applications de test, de mesure et de contrôle, qui permet d'accéder rapidement au matériel et aux informations sur les données."
+                    },
+                    {
+                         "language": "de",
+                         "value": "LabVIEW ist eine Systementwicklungssoftware für Anwendungen der Mess-, Prüf- und Regelungstechnik, die schnellen Zugriff auf Hardware und erfasste Daten erfordern."
+                    },
+                    {
+                         "language": "ja",
+                         "value": "LabVIEWは、ハードウェアおよびデータの傾向に迅速にアクセスする、テスト、測定、制御が必要なアプリケーション向けのシステム開発ソフトウェアです。"
+                    },
+                    {
+                         "language": "ko",
+                         "value": "LabVIEW는 신속한 하드웨어 접근 및 데이터 분석 기능을 통해 테스트, 측정 및 컨트롤을 수행하는 어플리케이션을 위한 시스템 엔지니어링 소프트웨어입니다."
+                    },
+                    {
+                         "language": "zh-CN",
+                         "value": "LabVIEW是一款系统工程软件，适用于需快速访问硬件和数据视图并进行测试、测量和控制的应用程序。"
+                    }
+               ],
+               "majorVersion": "2020 SP1",
+               "packageName": "ni-labview-2020-core-x86-en",
+               "packageVersion": "20.1.0.49152-0+f0",
+               "architecture": "windows_all",
+               "section": "Programming Environments",
+               "preselect": "true"
+          }
+     ]
+}
